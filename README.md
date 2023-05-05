@@ -34,7 +34,7 @@
 <img src="./icons/davinciresolve.svg" style="height: 45px; width: auto;">
   </div>
 </div>
-
+<br>
 <div id="activity" align="center">
   
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/544658159038627875?simple=true)
