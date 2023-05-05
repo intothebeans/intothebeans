@@ -59,8 +59,8 @@ Creating an [Obsidian](https://obsidian.md) plugin to sync settings across devic
 <details>
   <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Github Stats ...</b></summary><br>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=into-the-beans&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=into-the-beans&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=into-the-beans&theme=onedark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=into-the-beans&layout=compact&theme=onedark&count_private=true&hide_border=true)</a>
 
 </details>
 
