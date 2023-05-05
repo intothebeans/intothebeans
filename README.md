@@ -34,15 +34,6 @@
 <img src="./icons/davinciresolve.svg" style="height: 45px; width: auto;">
   </div>
 </div>
-<br>
-<div id="activity" align="center">
-  
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/544658159038627875?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/544658159038627875)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/544658159038627875)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/544658159038627875)](https://dev.discordprofiles.me/openspotify/544658159038627875)
-
-  </div>
 
 <details>
   <summary style="font-size: 12pt; margin-bottom: 10px;"><b>🌱 I’m currently learning...</b></summary><br>
