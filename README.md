@@ -14,18 +14,16 @@
     <img src="https://komarev.com/ghpvc/?username=into-the-beans&style=flat-square&color=ff00ff" alt=""/>
     <h1>
         howdy!
-        <img src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif" height="50" alt="gif of an alien waving hello">
+        <img src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif" height="80" alt="gif of an alien waving hello">
     </h1>
     <p style="font-size: 12pt; border: 2px solid white;">I'm a currently a rising college senior studying music and computer science. I enjoy looking at the stars, learning new things, and reading and watching sci-fi media. Some of my interests include computers, physics, philosophy, and music.</p>
 </div>
 
-### 💻 Technical Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,gradle,cpp,python,wordpress,html,css,php,mysql,vscode,linux,md,latex&theme=dark)](https://skillicons.dev)
-
-### 🎭 Creative Skills
-
-<div id="icons">
+<div id="icons" align="center">
+  <div id="rowone">
+<img src="https://skillicons.dev/icons?i=java,eclipse,gradle,cpp,python,wordpress,html,css,php,mysql,vscode,linux,md,latex&theme=dark">
+  </div>
+  <div id="rowtwo">
 <img src="./icons/abletonlive.svg" style="height: 45px; width: auto;">
 <img src="./icons/adobeaudition.svg" style="height: 45px; width: auto;">
 <img src="./icons/protools.svg" style="height: 45px; width: auto;">
@@ -34,10 +32,10 @@
 <img src="./icons/adobephotoshop.svg" style="height: 45px; width: auto;">
 <img src="./icons/adobepremierepro.svg" style="height: 45px; width: auto;">
 <img src="./icons/davinciresolve.svg" style="height: 45px; width: auto;">
-
+  </div>
 </div>
 <details>
-  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>🌱 I’m currently learning...</b></summary>
+  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>🌱 I’m currently learning...</b></summary><br>
 
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/intothebeans?color=09265b&logo=freecodecamp&style=flat-square)
 
@@ -47,7 +45,7 @@ I am currently taking the [Responsive Web Design](https://www.freecodecamp.org/l
 
 </details>
 <details>
-  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>🔭 I’m currently working on ...</b></summary>
+  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>🔭 I’m currently working on ...</b></summary><br>
 
 Creating an [Obsidian](https://obsidian.md) plugin to sync settings across devices. Check it out [here](https://github.com/into-the-beans/obsidian-settings-sync)!
 
@@ -59,7 +57,7 @@ Creating an [Obsidian](https://obsidian.md) plugin to sync settings across devic
 </details>
 
 <details>
-  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Github Stats ...</b></summary>
+  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Github Stats ...</b></summary><br>
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=into-the-beans&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=into-the-beans&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
