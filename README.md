@@ -22,9 +22,9 @@
 
 <details>
   <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Github Stats ...</b></summary><br>
-
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=intothebeans&theme=onedark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intothebeans&layout=compact&theme=onedark&count_private=true&hide_border=true)</a>
+  <div align="center">
+  <img src="github-metrics.svg">
+  </div>
 
 </details>
 
