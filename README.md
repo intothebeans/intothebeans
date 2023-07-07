@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Personal Site-gre?style=flat&logo=applemusic&logoColor=white" alt="Personal Website Badge">
     </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=into-the-beans&style=flat-square&color=ff00ff" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=intothebeans&style=flat-square&color=ff00ff" alt=""/>
     <img src="https://img.shields.io/freecodecamp/points/intothebeans?color=09265b&logo=freecodecamp&style=flat-square"/>
     <h1>
         howdy!
@@ -23,8 +23,8 @@
 <details>
   <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Github Stats ...</b></summary><br>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=into-the-beans&theme=onedark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=into-the-beans&layout=compact&theme=onedark&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=intothebeans&theme=onedark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intothebeans&layout=compact&theme=onedark&count_private=true&hide_border=true)</a>
 
 </details>
 
