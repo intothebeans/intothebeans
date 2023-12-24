@@ -1812,7 +1812,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SnoringDragon/gluetun-qbittorrent-port-manager</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically updates the listening port for qbittorrent to the port forwarded by gluetun.</div>
@@ -1865,7 +1865,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bonukai/MediaTracker</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted media tracker for movies, tv shows, video games, books and audiobooks</div>
@@ -1918,7 +1918,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>olofvndrhr/flox-dockerized</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker container for flox</div>
@@ -2033,7 +2033,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2023, 04:04:12 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2023, 05:04:15 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
