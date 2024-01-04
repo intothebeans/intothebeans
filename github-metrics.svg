@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SnoringDragon/gluetun-qbittorrent-port-manager</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically updates the listening port for qbittorrent to the port forwarded by gluetun.</div>
@@ -1612,7 +1612,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 02:13:32 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 03:04:17 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
