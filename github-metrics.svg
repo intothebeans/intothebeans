@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vendicated/Vencord</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The cutest Discord client mod</div>
@@ -1712,7 +1712,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2024, 04:11:34 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2024, 05:26:04 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
