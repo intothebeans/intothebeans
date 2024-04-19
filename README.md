@@ -7,8 +7,8 @@
     <a href="https://youtube.com/@aiden-b">
        <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://aidenbentonmusic.com">
-      <img src="https://img.shields.io/badge/Personal Site-gre?style=flat&logo=applemusic&logoColor=white" alt="Personal Website Badge">
+    <a href="https://www.aiden-benton.com">
+      <img src="https://img.shields.io/badge/Personal Site-gre?style=flat&logo=jekyll&logoColor=white" alt="Personal Website Badge">
     </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=intothebeans&style=flat-square&color=ff00ff" alt=""/>
