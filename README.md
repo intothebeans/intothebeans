@@ -17,7 +17,7 @@
         howdy!
         <img src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif" height="80" alt="gif of an alien waving hello">
     </h1>
-    <p style="font-size: 12pt; border: 2px solid white;">I'm a currently college senior studying music and computer science. I enjoy looking at the stars, learning new things, and reading and watching sci-fi media. Some of my interests include computers, physics, philosophy, and music.</p>
+    <p style="font-size: 12pt; border: 2px solid white;">I'm a musician, developer, network lover, and avid reader. I enjoy looking at the stars, learning new things, and reading and watching sci-fi movies and TV shows. Some of my interests include computers, physics, philosophy, and music.</p>
 </div>
 
 <details>
