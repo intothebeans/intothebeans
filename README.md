@@ -21,9 +21,12 @@
 </div>
 
 <details>
-  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Github Stats ...</b></summary><br>
+  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Stats ...</b></summary><br>
   <div align="center">
   <img src="github-metrics.svg">
+  
+  [![roadmap.sh](https://roadmap.sh/card/tall/664c1bebbc68b74d9b0cca81?variant=dark)](https://roadmap.sh)
+  
   </div>
 
 </details>
