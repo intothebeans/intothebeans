@@ -13,15 +13,10 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=intothebeans&style=flat-square&color=ff00ff" alt=""/>
     <img src="https://img.shields.io/freecodecamp/points/intothebeans?color=09265b&logo=freecodecamp&style=flat-square"/>
-    <p style="font-size: 12pt; border: 2px solid white;">I'm a musician, developer, network lover, and avid reader. I enjoy looking at the stars, learning new things, and reading and watching sci-fi movies and TV shows. Some of my interests include computers, physics, philosophy, and music.</p>
+    <p style="font-size: 12pt;">I'm a musician, developer, network lover, and avid reader. I enjoy looking at the stars, learning new things, and playing guitar. Some of my interests include computers, physics, philosophy, and music.</p>
+    <img src="github-metrics.svg">
 </div>
 
 
-  <div align="center">
-  <img src="github-metrics.svg">
-  <br>
-    
-  [![roadmap.sh](https://roadmap.sh/card/tall/664c1bebbc68b74d9b0cca81?variant=dark)](https://roadmap.sh)
-  
-  </div>
+
 
