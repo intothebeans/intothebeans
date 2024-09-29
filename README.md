@@ -16,8 +16,7 @@
     <p style="font-size: 12pt; border: 2px solid white;">I'm a musician, developer, network lover, and avid reader. I enjoy looking at the stars, learning new things, and reading and watching sci-fi movies and TV shows. Some of my interests include computers, physics, philosophy, and music.</p>
 </div>
 
-<details>
-  <summary style="font-size: 12pt; margin-bottom: 10px;"><b>⚡ My Stats ...</b></summary><br>
+
   <div align="center">
   <img src="github-metrics.svg">
   
@@ -25,4 +24,3 @@
   
   </div>
 
-</details>
