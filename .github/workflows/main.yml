@@ -28,15 +28,12 @@ jobs:
           # Options
           user: intothebeans
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
-          plugin_16personalities: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/a692ced3e2cfd
+          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -56,7 +53,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -64,6 +60,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -76,29 +73,17 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_music: yes
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_music_limit: 4
-          plugin_music_mode: recent
-          plugin_music_played_at: yes
+          plugin_music_mode: top
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: therealmaghetti
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: | 
-            {
-            "url": "https://skyline.github.com/${login}/${year}",
-            "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-            "wait": 1,
-            "hide": "button, footer, a"
-            }
-          
-
-          plugin_skyline_year: 2024
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
@@ -110,11 +95,4 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
           repositories_forks: yes
