@@ -34,7 +34,7 @@ jobs:
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
-          config_display: large
+          config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -48,7 +48,7 @@ jobs:
           plugin_fortune: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -61,13 +61,14 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
+          plugin_languages_details: percentage,bytes-size
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_languages_threshold: 15%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -89,10 +90,18 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: lazer_mello
+          plugin_steam_user: "76561198951272646"
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: intothebeans
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           repositories_forks: yes
