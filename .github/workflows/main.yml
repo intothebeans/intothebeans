@@ -34,7 +34,7 @@ jobs:
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
-          config_display: columns
+          config_display: large
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -90,7 +90,7 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198951272646
+          plugin_steam_user: lazer_mello
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
