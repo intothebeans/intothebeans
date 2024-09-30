@@ -30,10 +30,6 @@
 
 <br>
 <h3>Tech I'm Interested In</h3>
-
-> Various tools, technologies, and languages I like
-
-<br>
 <h5> Languages </h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,py,elixir,html,css,js,sass">
@@ -53,13 +49,9 @@
     <img src="./icons/musescore.svg" style="height: 45px; width: auto;">
     <img src="./icons/steinberg.svg" style="height: 45px; width: auto;">
     <img src="./icons/davinciresolve.svg" style="height: 45px; width: auto;">
-    
-  
 </div>
-
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=intothebeans&theme=onedark&title=MultiLanguage,Experience,Commits,Repositories,PullRequests,Issues" align="center">
-
-
 <img src="github-metrics.svg">
 
 
