@@ -17,11 +17,46 @@
   <a href="https://www.youtube.com/channel/@aiden-b">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCziOicJifMZDlSQlSaRbG7A?style=flat&logo=youtube">
   </a>
-  <a href="https://aidenbenton.bandcamp.com">
+  <a href="https://aidenbenton.bandcamp.com"> 
     <img alt="Bandcamp" src="https://img.shields.io/badge/My%20Music-blue?logo=bandcamp&logoColor=white">
   </a>
 </p>
 <br>
+
+- :seedling: &nbsp;I'm currently working on growing my **Obsidian** vault
+- :speech_balloon: &nbsp;I like to talk about **Digital Privacy** and **Philosophy**
+- :book: &nbsp;Check out my thoughts on various things at my  **[personal blog](https://intothebeans.bearblog.dev)**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://linkedin.com/in/aidenbenton)**
+
+<br>
+<h3>Tech I'm Interested In</h3>
+
+> Various tools, technologies, and languages I like
+
+<br>
+<h5> Languages </h5>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,py,elixir,html,css,js,sass">
+</a>
+<h5> Dev Tools </h5>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,debian,nix,linux,raspberrypi,windows,bash,cmake,docker,git,github,obsidian,vscode,clion,pycharm,vim,emacs">
+</a>
+<h5> Creative Tools </h5>
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,obsidian,ps,ai,pr,au">
+  </a>
+    <img src="./icons/gimp.svg" style="height: 45px; width: auto;">
+    <img src="./icons/inkscape.svg" style="height: 45px; width: auto;">
+    <img src="./icons/protools.svg" style="height: 45px; width: auto;">
+    <img src="./icons/musescore.svg" style="height: 45px; width: auto;">
+    <img src="./icons/steinberg.svg" style="height: 45px; width: auto;">
+    <img src="./icons/davinciresolve.svg" style="height: 45px; width: auto;">
+    
+  
+</div>
+
 <img src="https://github-profile-trophy.vercel.app/?username=intothebeans&theme=onedark&title=MultiLanguage,Experience,Commits,Repositories,PullRequests,Issues" align="center">
 
 
