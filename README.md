@@ -1,22 +1,31 @@
-<div id="heading" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="200">
-  <div id="badges">
-    <a href="https://linkedin.com/in/aiden-benton">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge">
-    </a>
-    <a href="https://youtube.com/@aiden-b">
-       <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.aiden-benton.com">
-      <img src="https://img.shields.io/badge/Personal Site-gre?style=flat&logo=jekyll&logoColor=white" alt="Personal Website Badge">
-    </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=intothebeans&style=flat-square&color=ff00ff" alt=""/>
-    <img src="https://img.shields.io/freecodecamp/points/intothebeans?color=09265b&logo=freecodecamp&style=flat-square"/>
-    <p style="font-size: 12pt;">I'm a musician, developer, network lover, and avid reader. I enjoy looking at the stars, learning new things, and playing guitar. Some of my interests include computers, physics, philosophy, and music.</p>
-    <img src="github-metrics.svg">
+  <br>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+  </a>
 </div>
+<h1 align="left" id="beans-title">👋 Hello there! I'm Aiden Benton! </h1>
+<h3 align="left">I'm a recent college grad and aspiring cybersecurity analyst. I also make music.</h3>
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=intothebeans" alt="page views" />
+  </a>
+  <a href="https://www.aiden-benton.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.aiden-benton.com">
+  </a>
+  <a href="https://www.youtube.com/channel/@aiden-b">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCziOicJifMZDlSQlSaRbG7A?style=flat&logo=youtube">
+  </a>
+  <a href="https://aidenbenton.bandcamp.com">
+    <img alt="Bandcamp" src="https://img.shields.io/badge/My%20Music-blue?logo=bandcamp&logoColor=white">
+  </a>
+</p>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=intothebeans&theme=onedark&title=MultiLanguage,Experience,Commits,Repositories,PullRequests,Issues" align="center">
 
+
+<img src="github-metrics.svg">
 
 
 
