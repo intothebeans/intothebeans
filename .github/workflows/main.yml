@@ -34,7 +34,7 @@ jobs:
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
-          config_display: columns
+          config_display: large
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -68,7 +68,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 15%
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
