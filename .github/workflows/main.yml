@@ -45,7 +45,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_fortune: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -88,8 +87,8 @@ jobs:
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_recent_games_limit: 2
+          plugin_steam_sections: player, recently-played
           plugin_steam_user: "76561198951272646"
           plugin_topics: yes
           plugin_topics_limit: 15
@@ -100,7 +99,7 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: intothebeans
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
