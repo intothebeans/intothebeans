@@ -28,12 +28,13 @@ jobs:
           # Options
           user: intothebeans
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           base_hireable: yes
           base_indepth: yes
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
+          config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
