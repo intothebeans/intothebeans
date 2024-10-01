@@ -1665,7 +1665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TRaSH-Guides/Guides</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.</div>
@@ -1718,7 +1718,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jellyfin/jellyfin</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Free Software Media System</div>
@@ -1771,7 +1771,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ente-io/ente</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</div>
@@ -2735,7 +2735,7 @@ fix repetition</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2024, 16:05:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2024, 17:04:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
