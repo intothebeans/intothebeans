@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>winapps-org/winapps</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The winapps main project, forked from https://github.com/Fmstrat/winapps/</div>
@@ -1716,7 +1716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JosefNemec/Playnite</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</div>
@@ -1769,7 +1769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dusk-Labs/dim</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dim, a media manager fueled by dark forces.</div>
@@ -1822,7 +1822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>agersant/polaris</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.</div>
@@ -2210,7 +2210,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.94m out of 146m users</span>
+                                    <span class="gh">ranked 6.94m out of 144m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -2705,7 +2705,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Oct 2024, 14:06:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 15:04:27 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
