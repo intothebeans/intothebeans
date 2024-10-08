@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            326 Commits
+                            327 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    39.7k added, 33k removed
+                                    337k added, 256k removed
                                 </div>
                             </section>
                             <section>
@@ -192,14 +192,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.77617131555616" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.77617131555616" y="0" width="161.0400399142848" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="606.816211229841" y="0" width="93.44407872303003" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="700.2602899528711" y="0" width="90.63913825346287" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="790.8994282063339" y="0" width="74.01423561632035" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="864.9136638226543" y="0" width="21.031439678101343" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="885.9451035007556" y="0" width="19.52825048367355" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="905.4733539844291" y="0" width="14.52664601557088" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.79153256751744" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.79153256751744" y="0" width="161.04558928365032" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="606.8371218511677" y="0" width="93.4472987651272" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="700.2844206162948" y="0" width="90.64226163853786" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="790.9266822548327" y="0" width="74.01678611451918" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="864.9434683693519" y="0" width="21.00046161455974" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="885.9439299839117" y="0" width="19.528923418647075" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="905.4728534025587" y="0" width="14.527146597441234" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -212,7 +212,7 @@
                             </div>
                             <small>
                                 <div>674 kB</div>
-                                <div>48.45%</div>
+                                <div>48.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -250,7 +250,7 @@
                             </div>
                             <small>
                                 <div>31.8 kB</div>
-                                <div>2.29%</div>
+                                <div>2.28%</div>
                             </small>
                         </div>
                     </section>
@@ -660,7 +660,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.17
+                            Average per day at ~1.18
                         </div>
                     </section>
                 </div>
@@ -1648,10 +1648,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.454545454545454)">
+                            <g transform="translate(-1.7, 6.2727272727272725)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7272727272727275 0,1.7272727272727273 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7272727272727273 1.7,2.7272727272727275 z"/>
                             </g>
                         </g>
                     </g>
@@ -1674,7 +1674,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>winapps-org/winapps</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The winapps main project, forked from https://github.com/Fmstrat/winapps/</div>
@@ -1727,7 +1727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JosefNemec/Playnite</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</div>
@@ -2716,7 +2716,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Oct 2024, 21:32:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 22:28:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
