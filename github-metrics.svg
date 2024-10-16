@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    238k added, 186k removed
+                                    337k added, 257k removed
                                 </div>
                             </section>
                             <section>
@@ -192,14 +192,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.69106356284686" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.69106356284686" y="0" width="161.00929408986607" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="606.700357652713" y="0" width="93.42623834470601" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="700.126595997419" y="0" width="90.62183339541834" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="790.7484293928375" y="0" width="74.00010479088118" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="864.7485341837186" y="0" width="21.203071090564443" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="885.951605274283" y="0" width="19.524522142815616" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="905.4761274170985" y="0" width="14.523872582901431" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.7537713873465" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.7537713873465" y="0" width="161.0319477694707" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="606.7857191568172" y="0" width="93.43938322607507" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="700.2251023828923" y="0" width="90.63458370272531" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="790.8596860856176" y="0" width="74.01051645484206" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="864.8702025404597" y="0" width="21.07661219406269" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="885.9468147345224" y="0" width="19.527269203297788" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="905.4740839378202" y="0" width="14.525916062179885" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -212,7 +212,7 @@
                             </div>
                             <small>
                                 <div>674 kB</div>
-                                <div>48.44%</div>
+                                <div>48.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -249,8 +249,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>32.1 kB</div>
-                                <div>2.3%</div>
+                                <div>31.9 kB</div>
+                                <div>2.29%</div>
                             </small>
                         </div>
                     </section>
@@ -1630,7 +1630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>winapps-org/winapps</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The winapps main project, forked from https://github.com/Fmstrat/winapps/</div>
@@ -1683,7 +1683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JosefNemec/Playnite</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</div>
@@ -1736,7 +1736,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dusk-Labs/dim</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dim, a media manager fueled by dark forces.</div>
@@ -1789,7 +1789,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>agersant/polaris</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.</div>
@@ -2692,7 +2692,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Oct 2024, 01:05:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2024, 02:06:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
