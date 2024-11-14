@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    335k added, 256k removed
+                                    80.3k added, 70.1k removed
                                 </div>
                             </section>
                             <section>
@@ -2548,7 +2548,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.76k hours played
+                            1.77k hours played
                         </div>
                     </section>
                 </div>
@@ -2577,7 +2577,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2594,32 +2594,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 67 achievements unlocked
+                                            12 / 67 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYDBf/EAC8QAAICAgEDAwICCwAAAAAAAAECAwQFBhEAEiEHEzFBURQVFiIjMjNCU2Fxc5H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ABczl7OOyJr1hCsQihbg14nYlo0ZiWZCSSWJ+eutoMGV3La62Kgnr1oT3TWrMlSArXgQcySMewfA/6SB1N7SA+YYk8AQV/J/0R9L2J1TIYP01OHxsEw2XbIGmnkCciCsimSKqT/I8wVj5+eOOgjPUSlkdR2ZqCXqlvGTxpaoXlpQdlmu45Vxwn+QePqOuXRyE1zIxwyvFJXkhlk4FWJCpWN2XhlUEEFQfp0kVNPzOc9KHw+WpOc1r9dMrjXKkk15gXeox/qdqe4F+QD9OOiXXZUlzcJAKqK04A55A/YyHoLXTtfp5HcLuc2FeNawFOvevkj+KfZj9uAfcuwA4+wPTR6X7Za2LXtr2rEwY2Pa5wobsr2TFKVUmOvyz8NKFA7fbXx9QQejbHbfil04a5e1CrlqMk0VmaY5YVXllWJUHevcGHbwV7T48c/362pbjhaJpmjoSQfgUkjrLFs/aIhIpV2Ud3HcQx5b5+PPgdBc5vb8pitGwWZ3wflez08k7Q2BWayQ4HDRMisqxM0YA5YtypYr8+CjecBSo7nSz+uL3a1sFO1donjgRN7Mnuwn7FGJ8fYjqizW0YbNRzWMroQf34YIGT9KuwTpEvbGSPhioXju+fnz5PW9nN4g6Sut1dYgwlQSzW4Z5cwLZhlaJo+1R+9+sW7SB4HPPQf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwYF/8QAMxAAAQQBAgMEBgsAAAAAAAAAAQIDBAURAAYHEiEIExQiMUFhgaGiFRYyM0JSYnGCkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AAt1bya2wMeMGUtJaZUQY7S1EqaQpRKlIJJJJPp1buGVc0k9EWeGG3nGGZKcxGD5HUBafwenChn26i9VOX2+a6rZB55q4ccfzaaH+HRZ7Yu326rdVBYxW+7jyYHheg6ZZOB8qwPdoMXw5r7PdVfu59BjFNVVLloPgmcd4FpIHRH5Uua4EGwdm2LbLq2nI7rLruBFaQQUtrUkhSUgggpB9WmP7He3UDh9eWElsFFrJMfqPtNIRyn4rV/WluEFVTvqZVvhSHIHi4pB9XK26NBteD4q2uOFbNvZ0ODCgRW5RclPJaSViMgJGVHGcqB92i12wZFNZbHg9xaV67WDJbfTGEhBdUy6kjmCM5IPlOR6hnS1W9Q7ZWHiIykKaU0yjzPtIUClpCVAhSwQQUkYI1O4j3t1NamWr7M2Q0htlJelMfdoGEp6LHTHTQPTwWo/q7ws23XKSEuphpddH63POr4q0r/Hmk+h+PM91DeGrGG5NR7SYziV/MknRM2Nxn3FLqNwO7mRtmtejV6naltL6UCS+ArCMF45GQB0x++hfvTcV7vi5rLPdSKiuXEiSWUmK4CF86ClKSO8UonnOOg6Z0H//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Come One, Come All</div>
-                                                <div class="unlocked">12 Nov 2024</div>
+                                                <div>Park Ranger</div>
+                                                <div class="unlocked">14 Nov 2024</div>
                                             </div>
-                                            <div class="description">Kill four Taken with a single shot from the flaregun.</div>
+                                            <div class="description">Enjoy the sounds and sights of Elderwood National Park.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgACAwQFB//EACwQAAICAQIFAQcFAAAAAAAAAAECAwQFABESEyExQSIGBxQjJEJRFmFigbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4LmcvZx2RNesIViEULbGvE7EtGjMSzISSSxPfT8fbzWTSxNVWssEG3NnngrJHHv2BdkA3P47n8aZlMRby+dmFSMcuGtXeaaRwkcS8iP1O5ICj/fG+lkMnjqljFYtyuQxFSNviRWYqJZpAeORCR1ZQVCkjb0DwdBJfsZugkEtlqYqz78uxFXryROR3AZVI3Hkdx+NS0chNcyMcMrxSV5IZZNhViQqVjdl2ZVBBBUHxqtjctj7FvKY1AtHD241FdbLFhHNGBy5HKjozbMGIG3zD41NTx1nH5+r8VFwRSVZzDLHIJIpF5Mm5RxuCAen7edBbyhgyMNnDtdSja3rWojOeGGf6aNeBm+1h3Unp6m3I0RYw4FcFRpe13u5v27lWMRLksNaK89BvsXC7ox/lv10G5bES5HICzWZDE0UKdZ4kYFYkVgQzgggqRsRqmMBkFHyuQhHT024R/fSTQH2SOAOCvU/ZL3cZGrdtRmJslmbRbkIe5UMAgPji36aH8TyMbXr4dbsd60TZtS8huKGD6WReFW+5j3Yjp6V6nWN+msn8HI84rln4eVzLkPUddyAXO/bbfW3hfZuxRuRWL9ivWTkTA7zo4LNEY1XZWJ3LHbt50H/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBP/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQAGIQcSExQiMQhBURUWMkRk/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AAXM5eTjciY8YMpaS0yqjHaWolTaFKJUpBJJJP30ldO9m5XcmJyszJenj45yCqRCzDbDDzEd5CgVIeCEWn2kg2LFXos3AGF7hSZZdEcNR/IW67q8DfxfF6cumuQ2PlNmTtrxYTWLnZt1EKIHZC5Mt508eZfantbSkHiqvnkfOg4zhMXkcVnZGx8jBy0pRbaZbdjsNIxrCUpL8h5ak9oshSUmyKUaujRZFnuSssIzj0eRHU28u0Rmk8pbWpJSpKAflIN8X+Oa0z7Z2JiumWK3JkZ+4oD8ptaIBLkcyI0d4juCJLabIST7bIHPaQeSNDzu4Zm4N1NO5Fca2WJKEJisttNJHhcvtCEgVoMLctDPe4ceCPdfjwN6qD6TtlYeVtRO5J0KLIyLc9fpJBbIcZ7EBBHddEGyQK4v8/E25bEO5HICTGUgtKaZRy+0hQKWkJUCFLBBBSRVaYOhXUKV092xnYE9tqUgFL0CKmQz73VGl2vvPaKCTzoM76kMGrYW/JMrET5Tre5I7z81mSQtC+5zlFAC0g0RfIIBB0RbWv8AW2+P60j7/wCdzVa9Zv2V1O2FHdb3BhYGdba9RAMuY0haCf5NL93ANUfkAgHU2YbbciDMbkZCRHit+B8G30LBUWi2lICVE2VGuB99B//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Under a Thin Layer of Skin</div>
-                                                <div class="unlocked">12 Nov 2024</div>
+                                                <div>Back! Back, I Say!</div>
+                                                <div class="unlocked">14 Nov 2024</div>
                                             </div>
-                                            <div class="description">Defy the park ranger.</div>
+                                            <div class="description">Save yourself with a flare.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2695,7 +2695,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2024, 01:06:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 02:05:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
