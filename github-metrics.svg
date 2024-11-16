@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2508" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2459" class="large">
     <defs>
         <style/>
     </defs>
@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    378k added, 293k removed
+                                    1.08m added, 993k removed
                                 </div>
                             </section>
                             <section>
@@ -314,7 +314,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 2 commits)</small>
+                    <small class="h-details">(computed from last 1 commit)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -445,8 +445,8 @@
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             23
                         </div>
                     </div>
@@ -481,8 +481,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -1743,7 +1743,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        17
+                                        18
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1887,26 +1887,6 @@
                                         <span class="repo">Atarity/deploy-your-own-saas</span>
                                         to
                                         <span class="repo">intothebeans/deploy-your-own-saas</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">intothebeans/containers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8346348</div>
-                                        <div class="message">add forgejo and edit homepage</div>
                                     </div>
                                 </div>
                             </section>
@@ -2520,7 +2500,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2537,32 +2517,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 67 achievements unlocked
+                                            21 / 67 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcFBggD/8QALRAAAQMDAwMBBwUAAAAAAAAAAQIDBAUGEQASIQcTQRQIFSIjMTJhFjRScbL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AQtZq8mnVEx4wZS0GmVYMdpaiVNoUolSkEkkqJ+ugzcM9bm1Ba3E4A9Iwo/451L1a1qxVmarW4UMuUumMRTLf7iQG9zDeOCcnP4B1c7B6dTafdNGne9YqJaacK2llAVuS0WitOFfywR4xnzoK/Y9Fu27atDjwKc85BXLajyJSKY322ApQBKlds7cAk5xoaX62LdEqkVEI+SZKXEGK02pCm0OFOClAIOUg54/rnGtHez9QLxl/p27axc0mVSHqatCoL8t1xS1latrhB+EnGOSc6RV/WlPs3qk9Cqqml+oYlS2HGlFSVNrQ+fIyCDkEfjQOroXGoCbTlxbrXE7NeqEdiNFk/bJUzGYUBj6H4vB4OPzjRCbmqrk6SZtWch3M0spj26iotoZUsJHYZDewFxLuVbjvHbwMnWb7iNUrqafHEvuUyCyhuMyXmW+0ShHc+EqB3FSTkkZ4HjGrEjqB1MbgmKzcag0GkMD58XclCCSnCt2QfBI5IwD9NA8BX22mnm4F3ypFPP7mSau2n02OWRu2AR+67uaUkhe1KQeM51DXO8xXLQrj1QmR6nCpzb3uSszJIcffdLbheYb2hOcBOASDuCd3nhZPdQeqTsSa4/cKEKllspw9Fb4R5QB9oOMHbgHnOdc6nVLsuCc3IvGvlbGx5wNKfbLQcLBaSEttngknHCfJPk6D/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwYBAgX/xAAsEAACAgIBAgUCBgMAAAAAAAABAgMEBRESAAYHExQhMSJBFSMyUVJhc4Gh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AAXM5e1jsia9YQrEIoW0a8TsS0aMxLMhJJLE/PVT4dzz33y1y/RiueRU3SgkpQstiw0qxqoHFTI2ixCj5K+/7dRHdI55lj8AQV/c/wCCPpU8NcHdz2Z8PcVjsscdYeKbKerEKSNGIJZljVNje/Z9rvieQJGxshyvED1NWjiLdahBjbRWeLJVlx8KCCSOTQLJpjGxUgkfGuJHz1L0chNcyMcMrxSV5IZZNCrEhUrG7LoqoIIKg/bpN8U8HkcB3r3nTyWZGUs28R+MC00EcTb5CJo34jYHDmoUELvidEgaIe3pUlzkJAKha041vYH5MnQb5SpJkO7qtKEDzLIqQrv7F4olH/SOmq62OrehxlPtW7agw0hhx1ytm1qTJolXkDJFyHmMC5BY6J9tDonWC1F3PQzWOEEhqvWlRZZolHOJI9qys4I+pCCOlbt/L0r1iOeJq9SZHV5MfevwfV9YJWCxy0x+QEkCn3/UegzBaoRT5Jch2hfAyC+Rk7NvPi3NLAB7ryeIkBdBxxIJZF99DXRCmKfB9+5HEyMJHom7X5/y4RSjl/saPTL3RdqwLPbuvAzT8vLxlS9XNhgdgiWUsUiG9ghA7f2Oju3Su5Huy5ncu9Og1z1Mrxxzo6BniKKgAYsTyIG9H52fv0H/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Heavy Metal</div>
+                                                <div>Iron Horse</div>
                                                 <div class="unlocked">15 Nov 2024</div>
                                             </div>
-                                            <div class="description">Survive the bulldozer attack.</div>
+                                            <div class="description">Encounter a steam engine.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAX/xAApEAABBAEDBAICAgMAAAAAAAABAgMEBREABiEHEhMxIkEUUQhhI3HR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AAW5t5NbYmPH8CGg0yrBYaUoqU0hSiVKSSSSSfep70XdqNuJ3CuqfRSLVhM5UBgtnKu0Hu7PWeM+s6ibgvbViyDMexksstx44SlK8ADwN60b0l2/Yb86Px2Z1vDrnZDzkdiYxFBmLShRJBUpWCeD6Ge0e/egzVWWdxaWDEKAGX5LywhtpqCypSlH6ACCdW27ob2lsYaLhpt2umMOutyWorYaUtLS1hKHUoGVJKRkpOD/AGNJV70w3Tt+pcr3d07ZiuvBzyWM6epqQ+zkfBIKf8aCAAoJJ7j7OONCcC8nWtpWxp0x92NXwn48ZpS8oZQGXOE/9+8DQcvcuBffIceCPnH68DelG1uPwP40bWVXTwxZxr9x1stO9rqClLnyGOR7HP8AY/ejy2qHbGwEmMpBaU0yjl9pCgUtISoEKWCCCkjBGrR00uZOx3p7525RXT0hCG2zPkMK8ISSSU/M+88/6Gge+o19tax2fRxOp0uGuPMo2JiC2wtU/wDJUBlxopHaB7yD9++NZS28GxuIhjuUyGZPYV8KKfA5jIHo4xxq59TLncXUCYxZ20GohKYjpixWY0ppKQ2FKUSAVnPPGeANcql23IgzGpE+RHjI8D4OX0LBUpotpThKiclRx6+9B//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQHBQb/xAAwEAACAgIBAwIEAgsAAAAAAAABAgMEBREGACFBEzEHEhQiNFEVIyQyNUJkcXOB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCC5nL2cdkTXrCFYhFC2jXidiWjRmJZkJJJYn36a42OS8pybUsDUW1YUF3/AGSv8saeWdigCgfmSOsflKh8yxJ0PQr9z/gj6r+A41XzHwuwFLHcmxOHw9p5LGfdpt2pZw5EcXpD7nCpoqvsSd9+g4LllDk/E7tatnFowizEJoZYoK0sUqb1tXVSD/rpSjkJrmRjhleKSvJDLJr6WJCpWN2XTKoIIKg+OrF8bBjsL8M69ezT+jef6WrgsdY/EQ1IGLPYlH8ryFjseAVB77AhfHZUlzcJAZQtacAb3r9TJ/3oB8m0M79w7ehX3r8vQj6PxblOf41k2fi9+epYnCQn0UBMngDRBG9nt579Hy2IlyOQFmsyGJooU7zxIwKxIrAhnBBBUjRHSYwOQQq8PoLJGR8rC3CCCO4IIk999A78Sf0ieY5M5e/PfmLB4rFiQyNJCw2h3/YjsPY7HjpDi/8AG0+0fhrHn+nk63eU47IZrJXsoYa0TWhGY1a5CO4UB2UfP+6WDa8DfRcLxuxRuRWL9ivWT0Jgdzo4LNEY1XSsTssde3noP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Missed by a Mile</div>
+                                                <div>They're Heeeeeere!</div>
                                                 <div class="unlocked">15 Nov 2024</div>
                                             </div>
-                                            <div class="description">Perform a cinematic dodge 20 times.</div>
+                                            <div class="description">Inanimate objects shouldn't move of their own accord. Put a stop to this affront, oh, say, 20 times.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+19 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2638,7 +2618,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Nov 2024, 22:12:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2024, 23:05:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
