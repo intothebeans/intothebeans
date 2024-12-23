@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    742k added, 735k removed
+                                    379k added, 294k removed
                                 </div>
                             </section>
                             <section>
@@ -2268,6 +2268,71 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQYEBwgAAwL/xAAuEAABAwMDAwQBAwUBAAAAAAABAgMEAAURBhIhBxMxIkFRYQgUQoEVIyQykbH/xAAaAQACAwEBAAAAAAAAAAAAAAAEBQECAwAG/8QAIxEAAgIBBAIDAQEAAAAAAAAAAQIAAxEEBRIhEzEiMkFRFf/aAAwDAQACEQMRAD8AzPeLo9c5HefKc4xgCoO5QwD7ciuJKVZ4yKeNE9ObnqICXL/wLZ5/UOjhf0KpZalS8nOBLKpY4ESmkOvubGUlaj7AVMVZ7kn/AGhu+M+Kuq4/0PTtkXCtEROUD1PugKKj7kGvOHr5j9A226xGKh6Qrtjml53B2HKtMiGLpMdO2JTItNyUkYiOkDxxUJ5LjSi26kpV7girun60irhPBphlLihgYQOKcrDp3T+udIIhvhhEpGVhSAErJP3Uf6LIvK1MCQ+kGcI2TMtgkjA5qZbpzsKU280RlJ8EU4686aXbTDy1ttqkRAThxA8D7pCA9WDwc80xrtW1eSHIgjIUOCJZHRHSLOq9UvGWtIjwUB5ST+76ps1nqObb571vJSmIn0NJbG1P/Pmvb8c4Xbt15uIBz2tq8H2BodfI6LlqcNqBLe/IJpPc3k1TBvqBDaPjXyHuAmIcy9vArCwhXGyjCNFNt7UrV6vIHxTqmFHtraG4wSeASqiNqtbs9zerIZPnPk1VtRxHXQlgnI99mV8nQipCVFjOP/KgNN3bSkzejuBtJyccVf8AHhNRkBDSOEjzQHVUGO9AWpbQIOfahV1xduJGQZr4AOx7kfQd4d6gPOW1xKdyWx3CoZGKpLrVpiPprVCm4Y/sqPOPn3q1uhBEHXsplJ2oWkCgf5OwUi6iS3ygnGR7GtdK/i1vBfqZlaC1Z5exPj8fQ1Ks0yDJe7bL2UqwcHGaatTdPFWG6tTraVvwlYJ5yU/eaz1pHVEvTdx7rBy0rAWj6+q1b041tH1Hb+2pxtxvbjB5wa7chdp7DcvamTpuNi8f2JUh4uObUIKUgeTThpQ4tSckbtxwPmoGsrF2bm0m1pLin1YCB80Wtlon2yGltxIBVzk/tNB3XJZUCD7hCoVbEIuu4Ixwo8HNL2pJbTcJTalBWc4I9jReTFluN4Q+2Vq4HHvQbT7cCJf3TqQ7ltDc0nOEk/YoZCB8h3iaEZkDRmhn23ZF9uryokQpyhsHas/earjq9IakNvmI8p2OOAFKyQacOo2vFzA6y072IjRI2g44qhNR6geuz+0ellPGB7022+m62zzP6/n8g2oZK0K/pgFeM0b0tqKbpy4tyobitoOSnPB/ih9xgvwX+3IbKTiomDjgcV6BkDji3oxWpKnIl+w+pTc65x5geCFJSM5Pg0Tk9RkPgh2VnBPg1nEFYGElQxzwa7c5nhSufulb7PSxyPyHpuNijE0CjXbAWdsrGORlVL2o9WR3HmnlSN5J5INU+VOZwVK4+647iDuKj8ZNWTaqkbkJD7hYwwYW1De3rpJUdxDXgAe9B04yPiu2n+fiveHGelSUMtIJWT4piihBhYEzFjkz/9k=" alt="" />
+                            <div class="about">
+                                <div class="name">Stranded Deep</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Adventure, Indie
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        124 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 23 Dec 2024
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            26 / 37 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAwj/xAAuEAABAwMDAwMDAwUAAAAAAAABAgMEBQYRABIhEzFBBzJRFSJhFBZSYoGRofD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAxIhYf/aAAwDAQACEQMRAD8A8/2VaRryJk6oSxTqHCTmTNUjfhR9raU5BUpXga0Tty0KnqSxbdqUwtISG/1NUQZLzv8AUpJO1JP4GnX6amVAs2zw+6hn6eKk4hICVvPukq28/wAUk4z8HQVr2u1LuOZFf6zrcYlTaANinkhWN3Pjt2+c9tY2ybWTNqY9QAJRS7xoxmAXFZtEfYVhKlw4/RWE5z7c7T/o+M66+pNhUv6Im6rKcK6MtJW8yVZ6Q3JT9uee5wUnJT3zgjR1z2+mJW21AMsUuU+EIdbc3pbBx3+OOR4x5IGnWqeiBFu+03JD4YNMVUQgqBUy+yN+0kcEKTwfxjUDUQymJlsFWEsv2ZMplNtmv0GWXIMymMRHHVBLpDjaQQFEjhXf4OUnR1kN166rhXIj1hsVMILoVLO7q7SPt/7xnTnptctCXYH7ZvJ2AiGEb2VhacKStRIBKSSHUq3eBgYznOoan6XSGJqnbWuOmSW0lKkpclpadb3e0EjjnjB4z8aBpbU89jHaYd8jHqRFmWxAo8yk9OmKSSFRHFdVwqCMZBOctpBUkD4PPfWapFVqdRoF01+rFpyNDpi6cxsbQykuPYTgYAyQCSe57DVD9iPwnGZV+XRCp8VxSkbg8qQ67t9yQcHGP74PjOs16h3tTqnR2LbtqnmJQoT3UadUs9SQoAgrWPznPPP+cC402oDvsOR9bJ55P//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Another Day, Another Shore</div>
+                                                <div class="unlocked">15 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Create a camp (fire) on 5 distinct islands.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQf/xAAsEAABAwMEAAQFBQAAAAAAAAABAgMEBQYRABIhMQcTIkEUFRZRUkJxkZLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAQACAwEBAQAAAAAAAAAAAAEAAgMRMRIiQf/aAAwDAQACEQMRAD8A4T4cWFMvGTIc3uRqZGSS9JS35h3YyG0JyCpRGeNVMWpUSOD8ntukQqeyPIM6stmS++od4bzjefcAYHuRoF2VCVQbfsyjU6S8x8LCRU1LT6Fee8SsHj8QcDP31Qqp5vujRavGYiN10IK5LPlAolpCiFKQcelz0klA7zkd6xZLq7eTdjxgaOwFIrdvSZQTNtmi1BZbC1MMwRFeU2DuOwBRQtQxkp9KiOietZniXYFJXQvq2xnN1GUkuPxyvPkjclOUZ9XasFJyU95wRpO434LEmA7SQ5S5CkBDr2w5awBxgcg+/GcDjnWnGKHol4UNctt2HLpq6s07EyGy+16lFAPSVYII/wA0Vs1RIXqWEewfitAQ9SrUr0FxUmBIpjMVTpXvKXG09KI/Vgn+p0jTJrFHtunqbL/zArXUG1pISGxu2AZ7HKMnHecdaqvDe5qEuwPpm8noCIaUb2VBxOFIWokAlJJDiVbvYYGM5zo0yxZEdhcOiVS3q1TkgbGZz4beZSpW5KStChkEnIGcEngc6hfPzb8lh6+qwb9NjXnDemyILzdcjOEyWI4DaagtCMqLRPAWQRuA56I1MW8X1Ui8bilMIajR6aunNNIIbQlbuEBCd34pJJHJP7nVFNtqpx6lAqt8XbAozLKymN8M4VrSUcqS2AMA/cnJ++dSnix4jRroYNJo8LyKY1J+ID5O1cleCCtaAMc5zzz/ADgPHVs6ORZLFTb2f//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Vegetarian</div>
+                                                <div class="unlocked">14 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Spent 10 days without eating meat.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+24 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcEBQgBAwL/xAAxEAABAwMDAgQEBgMBAAAAAAABAgMEAAURBhIhB0EIEzFRFCJhcRUjJEJSciUyM4L/xAAYAQEBAQEBAAAAAAAAAAAAAAAEAwIGBf/EACQRAAEEAgICAQUAAAAAAAAAAAIAAQMEESEFEjEyQhMUIiMk/9oADAMBAAIRAxEAPwBIQWdzhUrg1aBoiMvBGaJNKaMuOoWi7F2YBx6UWjo5qNwJU2E7f617oDCLey5yRpif1SfhxVqfzgjmiyM3hkbuaPmujd/2/mFCP/NSldJb5HYyhxCj/Wn0p4Iy2SNagmMfVLzaSQNp4qHcUjHnNKwtPY0RQbHdpzj/AMBBdeLSihWB3Fck6M1MpBH4LIO76CkchJGURCxLPFgY2hJx0yXV4bLc9CVLCgoBRx9a8YBSXl7QaKpmhtXLfcV+ASiQMA4FRxovUkENCXaH2y4e4rl6w9fDro7xbfDaTJ6GuN3GzXBuFGlTXoyfMbSwvBBJ71qCFv8AgIwcQpDhbSFJJ5TxWa/Cc8Bqi/tN4IVGRykYA5rQWrdRQdK2V+4T3AkJB2JJ5Wr2FGLzhJHHlWW9vzw0F73E87M8j711LZCSgnKVZyfasm2TrLcYGvJd5kJU5BlYaW0f2oB4I9jWodMX6Bqa0NXK2OpcjOjG5J/d3H3FYw47WnJn0gnTMZy1vxIJQkOKnuOKWB6pJ4zRlqe/QdPwUvyAla1EhDY9VH2FC+oG3ntXPR4CtspttK0jtzQw9pm46ifdMt9TTUckpLhzlXfFGt2pBLGEmhWikPMj4ZNHS96Y1Dbvim4xYSSQUrxmhnrFeI9m01vcDbanSUJcUP8AWqnQ8S7QrgzgKbhNuEOJV3HvU7rVGZuNkixFpBS8sjeeQnilcebyEOWReUjaLs0T5ZLLoAIdp15c7bBdS+yY6Fb0+pJPpmmt1c0M5r2zxYjMsRHY7hWN/orikF0FlkdS0krTtcSlJwPWtY7lKJK/lUlRwfekXHxN2ZFp5KJhWZFdE3I1zbtLrhffex+sTkNo+4p19JdBq0JanITs0SVLUSNuQkfYUX5CnVL2Jd442jkV9vKU4w4G1AK28K/jRu7vlKZtMyE9c3SNp15maG8XGWfKaUeQkjufpQQ9fIK3VImy1fFPf90tqKQoeyR2NGOm4zd2t78O6SGZ0tl5akPBPCMngc12L07gM2abFO0ypGT56uduT29qTAVUw/eOXRZ/ugL+clSR9TRI9olWp50qdWj5HEnGAfTP1pfdTLzLh6ZtkFp8uqcfUSScqwR70wL1oiDZtFyUy1KdlJyUvJOO9LfqmEInQUuj9O1HbUnHBJxV6kcJyYD8WUbEkwBmRuxJY6FvydK6piXJ1lbrTasubT2pySfEfaA4Epsk13B+UpcHJpVRbbDZ0UHnVb33nFIP0AoeZgxY7p84YSBlB+tKs1cxd1Lj7TfU6pzSPErF3/kWOWg/VQqtmeJWaeI1sWkexApOpixlKWoJPqe9ezURg/xH3FHipdmZalvsJYRwfEBqRk/4iKwwFLKlFTQOau7f4k76lQROhoeOOfLQBSyERCSoJCBgZ9Kmw0WtcXEhkl3PqnirtQj+T4Ux5EviO02HfEFbLsw23d7DO3IOflcASfuKBtfa5b1Pd1TYUdbMdbaWg2o524oOuYadcIjN+WkD93NR20JbSEjPzcD70eSmD6YkiPkDHbjtf//Z" alt="" />
                             <div class="about">
                                 <div class="name">Balatro</div>
@@ -2332,77 +2397,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQYEBwgAAwL/xAAuEAABAwMDAwQBAwUBAAAAAAABAgMEAAURBhIhBxMxIkFRYQgUQoEVIyQykbH/xAAaAQACAwEBAAAAAAAAAAAAAAAEBQECAwAG/8QAIxEAAgIBBAIDAQEAAAAAAAAAAQIAAxEEBRIhEzEiMkFRFf/aAAwDAQACEQMRAD8AzPeLo9c5HefKc4xgCoO5QwD7ciuJKVZ4yKeNE9ObnqICXL/wLZ5/UOjhf0KpZalS8nOBLKpY4ESmkOvubGUlaj7AVMVZ7kn/AGhu+M+Kuq4/0PTtkXCtEROUD1PugKKj7kGvOHr5j9A226xGKh6Qrtjml53B2HKtMiGLpMdO2JTItNyUkYiOkDxxUJ5LjSi26kpV7girun60irhPBphlLihgYQOKcrDp3T+udIIhvhhEpGVhSAErJP3Uf6LIvK1MCQ+kGcI2TMtgkjA5qZbpzsKU280RlJ8EU4686aXbTDy1ttqkRAThxA8D7pCA9WDwc80xrtW1eSHIgjIUOCJZHRHSLOq9UvGWtIjwUB5ST+76ps1nqObb571vJSmIn0NJbG1P/Pmvb8c4Xbt15uIBz2tq8H2BodfI6LlqcNqBLe/IJpPc3k1TBvqBDaPjXyHuAmIcy9vArCwhXGyjCNFNt7UrV6vIHxTqmFHtraG4wSeASqiNqtbs9zerIZPnPk1VtRxHXQlgnI99mV8nQipCVFjOP/KgNN3bSkzejuBtJyccVf8AHhNRkBDSOEjzQHVUGO9AWpbQIOfahV1xduJGQZr4AOx7kfQd4d6gPOW1xKdyWx3CoZGKpLrVpiPprVCm4Y/sqPOPn3q1uhBEHXsplJ2oWkCgf5OwUi6iS3ygnGR7GtdK/i1vBfqZlaC1Z5exPj8fQ1Ks0yDJe7bL2UqwcHGaatTdPFWG6tTraVvwlYJ5yU/eaz1pHVEvTdx7rBy0rAWj6+q1b041tH1Hb+2pxtxvbjB5wa7chdp7DcvamTpuNi8f2JUh4uObUIKUgeTThpQ4tSckbtxwPmoGsrF2bm0m1pLin1YCB80Wtlon2yGltxIBVzk/tNB3XJZUCD7hCoVbEIuu4Ixwo8HNL2pJbTcJTalBWc4I9jReTFluN4Q+2Vq4HHvQbT7cCJf3TqQ7ltDc0nOEk/YoZCB8h3iaEZkDRmhn23ZF9uryokQpyhsHas/earjq9IakNvmI8p2OOAFKyQacOo2vFzA6y072IjRI2g44qhNR6geuz+0ellPGB7022+m62zzP6/n8g2oZK0K/pgFeM0b0tqKbpy4tyobitoOSnPB/ih9xgvwX+3IbKTiomDjgcV6BkDji3oxWpKnIl+w+pTc65x5geCFJSM5Pg0Tk9RkPgh2VnBPg1nEFYGElQxzwa7c5nhSufulb7PSxyPyHpuNijE0CjXbAWdsrGORlVL2o9WR3HmnlSN5J5INU+VOZwVK4+647iDuKj8ZNWTaqkbkJD7hYwwYW1De3rpJUdxDXgAe9B04yPiu2n+fiveHGelSUMtIJWT4piihBhYEzFjkz/9k=" alt="" />
-                            <div class="about">
-                                <div class="name">Stranded Deep</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Adventure, Indie
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        124 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 22 Dec 2024
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            26 / 37 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAwj/xAAuEAABAwMDAwMDAwUAAAAAAAABAgMEBQYRABIhEzFBBzJRFSJhFBZSYoGRofD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAxIhYf/aAAwDAQACEQMRAD8A8/2VaRryJk6oSxTqHCTmTNUjfhR9raU5BUpXga0Tty0KnqSxbdqUwtISG/1NUQZLzv8AUpJO1JP4GnX6amVAs2zw+6hn6eKk4hICVvPukq28/wAUk4z8HQVr2u1LuOZFf6zrcYlTaANinkhWN3Pjt2+c9tY2ybWTNqY9QAJRS7xoxmAXFZtEfYVhKlw4/RWE5z7c7T/o+M66+pNhUv6Im6rKcK6MtJW8yVZ6Q3JT9uee5wUnJT3zgjR1z2+mJW21AMsUuU+EIdbc3pbBx3+OOR4x5IGnWqeiBFu+03JD4YNMVUQgqBUy+yN+0kcEKTwfxjUDUQymJlsFWEsv2ZMplNtmv0GWXIMymMRHHVBLpDjaQQFEjhXf4OUnR1kN166rhXIj1hsVMILoVLO7q7SPt/7xnTnptctCXYH7ZvJ2AiGEb2VhacKStRIBKSSHUq3eBgYznOoan6XSGJqnbWuOmSW0lKkpclpadb3e0EjjnjB4z8aBpbU89jHaYd8jHqRFmWxAo8yk9OmKSSFRHFdVwqCMZBOctpBUkD4PPfWapFVqdRoF01+rFpyNDpi6cxsbQykuPYTgYAyQCSe57DVD9iPwnGZV+XRCp8VxSkbg8qQ67t9yQcHGP74PjOs16h3tTqnR2LbtqnmJQoT3UadUs9SQoAgrWPznPPP+cC402oDvsOR9bJ55P//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Another Day, Another Shore</div>
-                                                <div class="unlocked">15 Dec 2024</div>
-                                            </div>
-                                            <div class="description">Create a camp (fire) on 5 distinct islands.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQf/xAAsEAABAwMEAAQFBQAAAAAAAAABAgMEBQYRABIhMQcTIkEUFRZRUkJxkZLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAQACAwEBAQAAAAAAAAAAAAEAAgMRMRIiQf/aAAwDAQACEQMRAD8A4T4cWFMvGTIc3uRqZGSS9JS35h3YyG0JyCpRGeNVMWpUSOD8ntukQqeyPIM6stmS++od4bzjefcAYHuRoF2VCVQbfsyjU6S8x8LCRU1LT6Fee8SsHj8QcDP31Qqp5vujRavGYiN10IK5LPlAolpCiFKQcelz0klA7zkd6xZLq7eTdjxgaOwFIrdvSZQTNtmi1BZbC1MMwRFeU2DuOwBRQtQxkp9KiOietZniXYFJXQvq2xnN1GUkuPxyvPkjclOUZ9XasFJyU95wRpO434LEmA7SQ5S5CkBDr2w5awBxgcg+/GcDjnWnGKHol4UNctt2HLpq6s07EyGy+16lFAPSVYII/wA0Vs1RIXqWEewfitAQ9SrUr0FxUmBIpjMVTpXvKXG09KI/Vgn+p0jTJrFHtunqbL/zArXUG1pISGxu2AZ7HKMnHecdaqvDe5qEuwPpm8noCIaUb2VBxOFIWokAlJJDiVbvYYGM5zo0yxZEdhcOiVS3q1TkgbGZz4beZSpW5KStChkEnIGcEngc6hfPzb8lh6+qwb9NjXnDemyILzdcjOEyWI4DaagtCMqLRPAWQRuA56I1MW8X1Ui8bilMIajR6aunNNIIbQlbuEBCd34pJJHJP7nVFNtqpx6lAqt8XbAozLKymN8M4VrSUcqS2AMA/cnJ++dSnix4jRroYNJo8LyKY1J+ID5O1cleCCtaAMc5zzz/ADgPHVs6ORZLFTb2f//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Vegetarian</div>
-                                                <div class="unlocked">14 Dec 2024</div>
-                                            </div>
-                                            <div class="description">Spent 10 days without eating meat.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+24 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2024, 13:21:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2024, 14:12:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
