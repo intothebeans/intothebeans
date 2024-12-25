@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    81.6k added, 71.1k removed
+                                    743k added, 735k removed
                                 </div>
                             </section>
                             <section>
@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yooooomi/your_spotify</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted Spotify tracking dashboard</div>
@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ciur/papermerge</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Document Management System for Digital Archives (Scanned Documents)</div>
@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextcloud/all-in-one</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1634,7 +1634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firefly-iii/firefly-iii</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefly III: a personal finances manager</div>
@@ -1997,7 +1997,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.55m out of 151m users</span>
+                                    <span class="gh">ranked 6.55m out of 150m users</span>
                                 </div>
                                 <div class="text">Published 11 public repositories</div>
                             </div>
@@ -2375,7 +2375,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        11 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2392,7 +2392,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 80 achievements unlocked
+                                            15 / 80 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAsEAABBAIBAwIFBAMAAAAAAAABAgMEBQYRIQASMQdBExQiMlEVFyNxUlNh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQDBQf/xAAlEQABAwMEAQUBAAAAAAAAAAABAhEhAAMSBAUxQWETFBUiMnH/2gAMAwEAAhEDEQA/AKb1B9RKbEzFwLDVu1tZFdDNlYRT/Mjn6w2rWyv/ACV+eB0nraqC2zNZhZRe5E4mCqd845fqYbSgb+wNk8ggd3cONjoNEye8bzq+pRSN2FKLWV/ImlTMW0S8o7PjuAJ52d68HrbfTF8S4tyiyrqSNNhylRnHa2N8Nl1stoWCSed8/Uk/aRojjrL9yHsdOnFM8k5OVEkSSwIPh2nunUfY1iMCS/WLyJ6xze2uEMQ5Dte2zZOJB7Gxp5wpX/sUEBIJ2oK9hyOwC3yLKLhNfdzpdvRPOMsTmZr6nEpS66ltKkbJ7XApQKVD8HyNgsLj1bhO527ChVePtUbclSGbBqoD7xAGkrCSob5140deOpk5N81lGNuWmS1fy8y1hr/SW4PyMlwB1JSpTXYFdo3v6z/W+rxJu2kH1rYSpYBD8hh0EpYK7MhjNRweDRideZvJzvK6PGp76oDEya+5HcCVx2mw4tSlKCwUgb3/AGSPc9dP0TlDS43j9Q06yxFnMJZiI12pfJb7jo+O5QJP5JJ65My6tya6sbWVjUWfY49bS3J6FwGVLQ53KJCXe0b7070Uq8HkcHZc2cjIZ3odS0v6JdjJKyV8NCVVrpPwO1aQoKKNAhKwBzsFII9j0lu+3I1duwlKkpDgKZgXx/Sv4YMQ5maK2vEmqD9uxhnqROiznrBS4cc2dM5DKErk/DUFaBWlQ70pCj265Kf+jdYxY41deqmMWeOtWMWU/ax1S48pCSgrLiSXEKCjrZ8pI43wdcdafiWR5NbY+Gcyp7WLkFTp6qsnKt9wPq923ghB2DpIJ9/P3JB6h4VgdLjkiZ6i5lGXTV7TnzMGqeO1sOHkbHBUQrYQnQOtEgdMfIKQFnWEm4BgMS4WTEDt4Pg5O0ChxdseK//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Truly Outrageous</div>
+                                                <div class="unlocked">25 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Killed an enemy with the Siren's action skill</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2406,18 +2416,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QALRAAAgEDBAEBBgcBAAAAAAAAAQIDBAURAAYSITEUEyIyQVFhIzZCcXSRobL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQH/xAAeEQACAgICAwAAAAAAAAAAAAABAgADERIxQSGR4f/aAAwDAQACEQMRAD8A1JbfVbe2PbbTtKgprfbWGVaKf8ZgfqWA99vm2e84Gg/pd4CRUY3VHY4UPPxz+2W03PBRewtyzljOYvZSiOAyMiRMULls4VPIIIIOT0dTC3Wl62CG1XFuT9BxUOzZHeFk77A7CE48nGo9lTXNsWPXfySrKja2xY+5nNXdb3SVU1NUXKtSaFyjr6hjhh5HR1CeW5mjst/kluFtrpFhlhnctjJwHUn4XU9hh/oJGiG44qqsNVcZHp5IDMzoyOrMqM3SkjxjKniexk46zgftz8w2v+VF/wBDU0M6WgAnmA2dLBgnmMMlwcX2upuTgJWS8gkjRvw5MwKFQTlWJOMHz4Izq+9dV1rySRNWSUiR8udTKE4seuWFTC4GewCST8+8JwLbmeS9WCOWvt1bI08U0CFsZOeLAdq6noqewftg6Z9sSXG309TT3C13hlklWdJoYmZ1cDGCD8QI/rSUZw5RsgeYhWfco2RA3CelqIHWqK06KqmQASIFbIQsQAJIz2MnsDIwMauUMlPJeYJI8JHVPEkEYAykhK85B1+g5AYY5HHnB1PfEq6hqmO2WO5x085QMs0JxxVi2Ao+rsWJz9hjXdBRUO2LTPu7fE/paalw8UUg94sPh936/JUGsrpZrAiCZXUzOEUT/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>There are some who call me...Tim</div>
-                                                <div class="unlocked">19 Dec 2019</div>
-                                            </div>
-                                            <div class="description">Equipped a class mod for your character</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2493,7 +2493,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2024, 23:19:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2024, 00:16:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
