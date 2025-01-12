@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    234k added, 209k removed
+                                    194k added, 173k removed
                                 </div>
                             </section>
                             <section>
@@ -2284,7 +2284,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 10 Jan 2025
+                                        Last played on 12 Jan 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2293,32 +2293,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            48 / 80 achievements unlocked
+                                            50 / 80 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAsEAACAgEDAwIFBAMAAAAAAAABAgMEBQYRIQAHEhMxFSJBUWEUMlJxQmKD/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAdEQACAgMAAwAAAAAAAAAAAAABAgADBBEhYcHh/9oADAMBAAIRAxEAPwCSzTecj4HTskdKvVQyXr7khKyAjyJI533IHHJJCjk9CLGtExh9HT8DWCvH67KEzyuf5CIkxoPsNmP3Y9Hp8HNey8Ol6Uc7SW3OWya113lk8iTBAoP1CMu2/HlMSeF61R1Mni6cdg4qNo/QNr4WJligWAAEp47Fp38f3MfYkLy3AyrrVVj+ZmW2WnugOADgAEaOxGaXuBqdcPqDP56jeEReFKV0ww2fHllKrt4sBzxwQDwPrSu8va6ouJinqtLZRyIWNhvJw3JXdtuQ23iCdyrFSDsWB580OK+le+1GWBmjoUbbWPfyKVxGzkE/XZCQT+Ouisj3v0xqt6+BxqyzWrE8LKSp8R4SJIxJI24VWO/46NlBEVqtdXBB+yd9vYJX7xaxnnHpRz2LVCpO3yoXVGjUb/j1If68lPR3X2H0rBaqa2kyUjU4qPw2/jK0yRPVcRuCD7kyeoAvpleW3YnZT0gV8lkMp62SwlIZqG54SXKEcpinSdF8Fs12HPkyfK6gNyWDKVKnoPmsHmc0taHI4gafxSP5u1+wpsH33CpspG/+sY343J46gYa3Lelw5XW/fmLOPlt24M/qAwM9u+Xp1o4ULfPLzKVA/wAVjJX/AKL1p0hSm02jZDIwy18hdl+G04ZFKOoYgTy7HkAITGPuXP8AE9UrGdyMhpDBR4nAVi1WBWWGHH4t08iST5SWZfnJP1Kxgn6FeNkWNLFq3JqjWM20y7GCBtwIwP2gL/fsPckkncnfoLLFVYzh4dtlo5oDpJ4ABP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAArEAACAgECBAYBBQEAAAAAAAABAgMEBREhAAYSMQcTFCJBURUWI2GBoXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACAxEhBBL/2gAMAwEAAhEDEQA/AIhzPn4cRX/DYEeV5ftlmXuD8gH7+z/Q4HYbKPkYxSs5G7Utks0dsTuyHbXpkXcgbH3LuPkH4ZsRyatzIT5a7VvX45bbmKlTVAzx+YV62ZyB0k6gaak99V4quEtchRJNi/TUKbxHWSGz5UNgyKeoaOzyKun2m57b9uJRxta1b+ztlklNGgMAGAAKEw4rm+e+asD3pD0s4mFjSEoFDFxKT0dPSQerXTQjjPBJlYcvXx2bNiSK0UVorDFgUY7Op/0MP9HHV1HG8s5qxFVwX4Ka7FEZZHFhZ5o4kG7v5eydwAABuTsNzwp+M3LfRDBcfGU0nrwi+jrHpaJR91Zgx1RgHO/xoe4I4ZzRWBRi6JA8enGr1AvD3nLBW8QvJ/NFepemGdhpV/UIEkiqSEIzRyAbFXCkgnsT9bYfD/l3Ezcw5rKtTgWRMhLTrQaI0UaIfc8euuradCjZt312JU8R3MYy3cyE9yjBLarWZGlSSFCw0J10OnYjsQeHbwu5iv8ALLmjlsRflxTuZdYoW645D0gn+QQo1+fr5BGuFaUS88nt3lpq8xVXMSpgb36qhx1OrRx1WOZLMddVawGnMDxAqwLoV6x711buNNBxKeYvFLO8282uGtzR4q5JDX9K4U/tKw0BIG2vzp96b8E/FPPHJYkYXlutlrdexY9ZduWK7RmVgD0RpH0gIi9THpA06mJ/4r8sYCHEV/zOfPleX7ooW7g/BI+/of2eFkka1qtx8cskosUBpJwABf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Making a Monster</div>
-                                                <div class="unlocked">10 Jan 2025</div>
+                                                <div>Speed Kills</div>
+                                                <div class="unlocked">12 Jan 2025</div>
                                             </div>
-                                            <div class="description">Built the New Car: Monster</div>
+                                            <div class="description">Destroyed a Lancer while in a Racer</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUE/8QAKxAAAQQBAwMBCQEBAAAAAAAAAQIDBAURBhIhABMxIgcUMkFRYXGBsSOR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAlEQABAwMDAwUAAAAAAAAAAAABAgMRADFREyFhQXHBBBKRsfD/2gAMAwEAAhEDEQA/AF7rvWEegjN6Q0SPdgyrtSJSDhQXnlKVed2fiV+h1VQUOqrCGl+VYWZZLS1l5+YtCEAAgkbsYPHk/I/nodrp8Os9sM+ZZ7RFanSipakFYQfWEqwPoSOjixuIl25M7ktKKCOhD6mshLliRzyd3KBg4QVAqIPjBxzTiCwhKG03ElREkk+f3NbaVh1SlLNjAA2gDxQ25C1AmjtLOrfszCQU9qY1YKaQ6rIClhKvUtIA2gjGfv46GtMX9laXkOruJkixr57yIzzEp1SxhSgNycn0qGcgj+ZHThqbuXY01qlmvjVVbHjOBIdX3CcJKcqAylIBwccDH1HITtNWGs1ppfc6XFvyIzywUbdilKSdo55xkc8c56d6Z3US6lxIChbqbZyOKU8j2FBQTBvi+Md64NXLKdbXmCQFTn0qwM8FZB6Z2hNPvUFjb1tm5LbjSmEOwXEr7PdUDyravA4CskLHA+XWH7qhy+dvI1NMtW1ynZ0N6K2XGnNytyUugDIUg+U5H/OTCKzaT9QMztTwpSESlLYdMxtLWwq5StC3E7U4OMnyPwejfWXWQ0DAA3zItHxv3ihbTpuFZEydsRTEfQGkRaBqDCgV0hZelLijYiUBj/MbcgblY3er4cgADpZWtwq59rtY4rBSzPZYSrbgqCXByeTz9hxxx1u67gFqDDZ0cxcy3HBmQ7HW6+wCMYCV7QFHzyBj+dT0Do6Pp2GrVut1FjsHuR4zud4X8lqHkqJ+FP7PUbGkw0XlGVKBAHUk8Sb/AEKpd1HXA2BsIJPQAc8V/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQFBhEAEiETIjEHQVEUMoEVU2Jy4f/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAbEQEAAgMBAQAAAAAAAAAAAAABAgMAESEEQf/aAAwDAQACEQMRAD8AEbmr7NJj/o1AHS6fa68nyD7gH5+T+BrY2XbsmIyxIuBqq1N15r6rpNvHptRwQM53p3KUrsHOPuxkjRoWmF3fLVNRviplrDg3bcAlWCT4Azj/AHVUeiEqL6hW9JiTWwSiQh6quMZCHQhIbaZSryElKAcDwkEcbzqVdcYxzf7PZbZa90HAOAGcaDRbNvGIiH9E/bc9xRbQ5BlOIcYJz01PMKUQUqAzkEjyN2dAdYhVWg3vLtivSFTOlK+keStwqSoEjC058HBBB8j399WFclPoLlFaRbDLzwiBbTsiDHKwtlWdzXU27Vjft4BykgEYwdTj6rUlk3Bbdyt7m3qlPdhyGlfuxlNtqX893nnTSiaeZKi6xsiMnWz7hq/VZtHumpSKfJcjuKfcQoox3JKjkEHg/n3A1V3o/QrSVY5ZerDrlBr8WOuSxKlJY3zC4pK0ICNpSewJIH3cedA9g2lbtwXTKqN21oQqCXC8hLLTi3JO4k7AUpOzHhRPPx863lqxbZtj1BqT9HrK2qQlaTS5DjEhSowVkuI+w4H8sZPAJ86IyNHcL6bGySRdbfmN1wUG17GptQkwIjjcqU0mGlJK3W2kqASAG9wSlPjOMcq886kKuXNJuSuUOMGh0adKddWpvuSXHpJWtY+E8oSP6j51QldvyiXJUw9KnOsRIYWmI29FdWp4p3BDizs7cqwoo9wlOcc6KJSaHb6ahIoyXoNJkNNCQhxRJeWg7sJz3BvfghB5JSCeABpbLIxjlfH47bLjmg6rwAz/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Night of the Living Ned</div>
-                                                <div class="unlocked">7 Jan 2025</div>
+                                                <div>Athena, Out</div>
+                                                <div class="unlocked">12 Jan 2025</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Rescued Athena</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+46 others...</div>
+                                            <div class="description ellipsis">+48 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2394,7 +2394,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2025, 17:04:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 18:04:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
