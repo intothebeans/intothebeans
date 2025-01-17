@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    384k added, 274k removed
+                                    40.1k added, 35.1k removed
                                 </div>
                             </section>
                             <section>
@@ -2256,7 +2256,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        54 hours played
+                                        55 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2273,7 +2273,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            53 / 80 achievements unlocked
+                                            54 / 80 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBBAMFCP/EACoQAAICAgIBAwMDBQAAAAAAAAECAwQFEQYSIQAHMRMUIiNBQhYkMmGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQf/xAAjEQACAgECBgMAAAAAAAAAAAABEQIhAwAxBAUSQVFhIjJS/9oADAMBAAIRAxEAPwCbvNuPYTlGF9tOMrLTxAsfZ5C5XlMcgkba9Vk+e3fr2f8A4PWHAcLy+RuZqyvuBnZ8XB2NCJsg0Mk6DwZXbZAjB3pgPy1vwCN0k4ZQ5PncnXlxCR2bGQur93GveWX+4k/UJY9VVRoaA34+dsoJ1bwViTPnHWqdSrZmrF43DE1cg0egsSofKgAdmjJPwACVDeswzZsPDAQwSUiHLqUiS2ZXbNitgL8h0Amzpd/07y1MtFk73Kc2OLzThYVp3ZRPPGFG2jDE+N/GyCw2VHlQQw8qbP8Auc2DS3byHEsjfSilW5ZkmH0iwUSoXJZX/mG+QTr42PXREOakzsdXC5O5HUMvaKaygH1JiG6tHCR+I1sK0g+Ceq+fIVmUwWC4zzyhVqYOCSxLk6Mcdyn3+lRlWdSUYk67NH12vnR0fHb03y/jxMzjnh8+lRSSf2dWN2L3VkDQzgkjWiz2956tbkXJcG8bWHx2TuTNGibm+3eZmYxj+fRvJUeSr7AJXRnkWTxOQ4ryGVeStZld2mrMjq6sOoKSbA3GVJK7BXqV66O9MqMZi7EnuXd5dVpZnJYWxJYv05sMjmR3cnpGXUfpupb8g3x1Pggjdzjcmfs80XI8q9u3uV5Cezy46SLq3YsJH+nHqR/22U8/68+ry8qwwynPjKIESQ4vqFkI92L2TVnaDIUjpt4hr3KcVUmq4iHG38VV+hYmiZWZZAn+FeNSV1o+HbwNkAE+QN5flmJq2eJ8cSjHDmnyUEZhjkZlgiM6MXfZ2ZGIPlvyOyx1sD1ouS2o2N9sB7a8qhs2yRIBJYjqqSfydY00G3rYB0N62P29XeHe3vHuJ2bXPeT/AHdHEVik2Oo3xqwr6H5SKPl+++qj5+Tr49LR4fBiicmZj8RCJMvFTl3NA+/bJk0Nf//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Reckless Abandon</div>
+                                                <div class="unlocked">16 Jan 2025</div>
+                                            </div>
+                                            <div class="description">Killed 15 enemies with the Berserker's action skill</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2287,18 +2297,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAACAUGBwL/xAAsEAABBAIABQMDBAMAAAAAAAABAgMEBQYRAAcSITETIkEUJFE3YXWhgZGz/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQBAwUH/8QAIxEAAQMEAgIDAQAAAAAAAAAAAQIDEQAEBSESMUFRMmGRof/aAAwDAQACEQMRAD8A6rKVuxyaRQYy+qFUU6nK9tcF8tuoUQkuPdYWT6oX1A9aQladgHYA4yvmUxzGwG0+nssju3oThP001uY76bw/Hn2q/KT/AGO/E7jOfNYfzjyNuzHVAdtpAClHsyVOkFW/ga7nQJ7cJ+1rajLaBcWc1HsauWjY0QpKwfCkqHz8gjxxzO5v3cNcNquGwtpaRsiST2TJ8yZPv8hwIDgMGDWB4lhuR2WOJsb2/t30qbDy235rmi2AVKQBvwewO/lI8eOMnwvKLi9ySto8gsJdrU2chqG/HmPqcAStQAWjZPStO9hQ/sEgqOLMapcRto9utmG1T+tEKiewa6dMrOh5UlSfA87/AH4IPLT9RcY/k43/AETxqYd5V2i6ccSIT8YHWidfw6+qBwcSkCkzy8rMOmQLaNkNdVyZkCZIbkPzI7XsKXDtPWUgqOik793ke7Z1xa8Sy3A4F+9iWNPsMS0vH7aM0v0i5r3dJAKe2u/gb4K+YY1dXuS2d1j1fMtKq0kOSmZEJlTielayroXoe1aT2KT4I33GiZPldW5XiGUIspNVfwYCG1mSG4S/uEpSVBkkpIAWoJTv43vhW7wLNw0txdwSSJCJiFeo35kRANEl0ggAUn+ZmAx86qXIqbB+A44UJdcZAUl1KFFQStJ86JJB7EE/44K0bEJmEc7aGmnqDhbsoq2ngnpS82XE6WB/sa+CCOL47kmYVM2PIxTDLiDuPt5hEeQtsu77BYXvrAHY9gd9wridyDJkzbPFMkznEJlXKqtPuuuJKmQ2tWk/ghfUOpKTsgggjRCuKsYm9xqCwVBbSwoASnkFRrUkmYjs1K+KzPRr/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Careful, He Bites</div>
-                                                <div class="unlocked">14 Jan 2025</div>
-                                            </div>
-                                            <div class="description">Killed 15 enemies with the Hunter's action skill</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+51 others...</div>
+                                            <div class="description ellipsis">+52 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2374,7 +2374,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2025, 22:06:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2025, 23:05:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
