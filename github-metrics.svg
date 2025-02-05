@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2091" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2060" class="large">
     <defs>
         <style/>
     </defs>
@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    894k added, 873k removed
+                                    42.6k added, 35.9k removed
                                 </div>
                             </section>
                             <section>
@@ -2298,7 +2298,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2315,32 +2315,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 90 achievements unlocked
+                                            18 / 90 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACgQAAICAgAGAQMFAAAAAAAAAAECAwQFEQAGBxIhMRNBUZEUIjIzYf/EABYBAQEBAAAAAAAAAAAAAAAAAAQAAf/EACIRAAECBwACAwAAAAAAAAAAAAIBAwAEBRESITFB0VFxkf/aAAwDAQACEQMRAD8AypwzdDeXa9iiL0yUWtZG+KFeW3WWwtaONPkmftcFe4ho1Xfn+XBJicfay2TqY+hE01u1KsMUa+2djoD8njROPwcFerDy3hyhpVVLJMvu5O5MckzH3olCFH0VV+pO1ycur7lk4kFm5hGG7qvYkuu/LUNGuLkYx4tUbYpTy06610sxyx/LA4VQF7gFkVtefC8DHGlMtgI5a9jlrM/GKs428zHZpzpqOOZW+qguA33VmPsDWdcpQs4vJWqF+JobdaVoZY29qynRH5HFOS6sOWXixSkwj4XTxqE/pDjZaGDyOfWtJJctSrjaBjBLgN/ey69HtZIw33kIHn0g2WvYzm8oK3w2/jUvDGyr+kX2oHb+3YUjfnyTxJwdUcFgOV8VWwVa1PZr1o41rOohjhkAJd3fyZNyln0oXYI2RoDisiy1W/VbI1rmLeXIVoJnU5GCJVmMCiRe13DJp+4aI8a8eOGUx4QLAixTq+twSpskQZiORcTv7qOmrVu5DOy2JI4mlirNKsUkikWk71V1bv0oYq2wN+xrgz6vYya7h8fnnrSR3K0rY2+ZFIc9u/gZ9+z2q8Zb7xgHz7uc3fqDlzIG5dxsYGNtQsEyEEu2aEhFVVcsxLhB6/3ieyHVLBcxcr5eHNVrVe5ZglRqiqJo5ZWAZHjfwY9SgNpg2gCATsjjao+JngJXHqetRlLZIAzMcS4vfm99/cf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAACAUDBAYH/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDBAURBhIAEyExBxQiQTNRUmEIFSNCYnFy/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwACBAX/xAAjEQABAwMEAgMAAAAAAAAAAAABAgMRAAQhBRIxQVFhE5Hw/9oADAMBAAIRAxEAPwA0adsNx1FcDRWmATThGlbdIsaoi92ZmIVR1HUn3A9+KeodDX6wW/z1xpYPKBxG0lPVRThGOcBtjErnBwT3xwgPDGy22y6Ot0lHFOtdVR0kzciBJJ62VwJgm4gkKCqgKNoAUsSc5Ho9x0/S3TSU16rWeVJ6BpWop4Y5UnHxFR1IJyCCPSwPyIIzxxX9YS1cfGUnYMFXg/vdbU2kt7icngUJdPWC56hrWpbPSNUyohlf1BVjQd2ZmIVR1AySOpHGN6tNdZLlLQXWmkpauLG6Nx1wRkEHsQQQQR0IPThdaJ0RbrJNU0FhjLUpqOa8rHcXkxkDd+5Yg2xf5b27kYg/iH8PYW02tZTqvmaOF54CO4RfVLD/AJwTIvyKyAdGGERq7S7w2gHHfU+Koq1KWwsnJ69VzPCa72q5aassstye3lYYoFqY8DEqQciWnLH4bsiq6t3wx29Qcdy1Ne4PJ+QozDGqwmKlpEcDIC4BP0xqOrMegAPAt09qK66emlktFY8HOXZLGQHjlX5OjAqw/sHijd9c366UMtFNVQ09HLjmw0dNHTLLj2flqNw+xyOAvNEF08FFZCJnb7pWrwITlMqGKU1qq4/K0n5JfZkaFZHpjBIiLWRs+6OoVXGJAPUjxkqQQeoI6ydeapqW0pcp7/PRNUwwTiRaUkojSQvFFGT1/UZnztHZVY9hng02DWF7sVI1JQ1SNRM/MNLUwpPEG+oI4IU/cYPGGodT3fUAhS6Ve+CHJigjjWKKPPcrGgCgn3OMnhBo6A+HZEA7hjMnyZz9T1xUN7LZTGTiv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fashionista</div>
+                                                <div>Going for Gold</div>
                                                 <div class="unlocked">4 Feb 2025</div>
                                             </div>
-                                            <div class="description">Equip a new outfit, gloves and washer modification at the same time</div>
+                                            <div class="description">Get one gold medal in Challenge Mode</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgCBv/EAC4QAAEDAwMDAwALAAAAAAAAAAECAwQFBhEAEiETIjEHFFEWIzIzNDZBUmFjc//EABYBAQEBAAAAAAAAAAAAAAAAAAADBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMREyEx/9oADAMBAAIRAxEAPwAos616Eu1INQqUByfKmKeVzJU0ltKFBIACRyTySSfgY0swPRO2pcGPJ9gEdZtDm33LxxuGcZzrgLQViw6BwOUyxyP7hqkbeDUi3aYrJA6DXk4PCceNZhvs3umeCQpYvc6HwQsqXonbkKA7KNNK0IQtX4l4A7RnGc6KL1tehs2tNm0+nrgy4vRcBTKU8lxK1bSlQUODyCCD8g6qu4VqXb1SSy4lJ6LvOdwHbzx/I1Nd5J22RXBuBy3HPH6fXJ4032b0TPDFzFLkQeGatD8iW/48SvP+w1StFeckUqG86llsrZaOxCAAntHgDUo2ddVFZtSDAnz1QZURTyFBcdbiXEOKCwQU+Mcggj4OdLFO9brah06LF92F9FtKN5be7sDH7NDTZvdscOIpUpc7HwxTrraTQqilKQrLDvaEZz2nU1Xjj6D1zbn7uPnPz1k6Q3fXK3zGebYqBadWlaUuBt7KCoYz9jRHeN0UV22J0Knz1TpMwtJ7WFtpQEr3lRKvOcAAD5Ogofej44Mxcpe5GXwT/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYEBwgB/8QAKhAAAgEDAwMEAgIDAAAAAAAAAQIDBAURABIhBgcxEyJBURQVFmEjQmL/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUC/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIRAAMEIRJBMWEFUcH/2gAMAwEAAhEDEQA/AKU6e7ctcbXTV1bdI6ZKmMSxxwwmZ9hJAJOVUcqeMk/eNHJO3Fn/AF7UdPVVrXVkLx1MoVIi3OFKDdhTwM7s5OfAI0z9A2SlufQ1sFW9dElNRGVRSRb9zPPLwx+M4XBPGicNipKO3xTD81bg0jQNBMgEPuRv9/HOQOfGc/3qY+dF0pvRA8fdMrjkgGRsT7rNWuamtargKqamNDVfkQkrJH6TbkI8gjHGobKVYqwII4IPxqnS1ao7fvcbd2/d7TEkmaKiheQNl1DrvOFwc5MhGfj60Rppqn+NXCgnpnqbdFLF6Ms+YHhkbPuxgkjzkfQ/vVH9N9zf1top6Cpop/8AFCIDJTVGz1FUkruUqeRnzn48aIP3YhSAxwUNwZSwfY9WoUkfJ9hzqHd+Ndy54glmDA9wI1Ti3V5K3IgARH7Vu3Onko+kbZWy1lS8tbIVC+oUjjVPOce7nGOCPOlbuZ07b79ZYax4KihaSleqhqakCQxmMZZN+dzRn/rJU4x5IKnD3gVqOKnliusUceSiR1CMEz52naDg/WhfVvc4XqyS26OmqnVoTAjVEq7YlLKxwqrycqOSdHGwsm26sx3JnfR8CPVauX0YMOutd1//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Pave the Way</div>
-                                                <div class="unlocked">2 Feb 2025</div>
+                                                <div>Sole Task</div>
+                                                <div class="unlocked">4 Feb 2025</div>
                                             </div>
-                                            <div class="description">In the Detached House, complete the Pathway, Driveway and Driveway Edges first</div>
+                                            <div class="description">Complete the sole of the Shoe House last</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2025, 22:07:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Feb 2025, 23:05:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
