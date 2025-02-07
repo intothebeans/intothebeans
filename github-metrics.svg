@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    194k added, 174k removed
+                                    783k added, 772k removed
                                 </div>
                             </section>
                             <section>
@@ -2266,7 +2266,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        16 hours played
+                                        17 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2283,32 +2283,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            24 / 90 achievements unlocked
+                                            26 / 90 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwgFBgn/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMEEQUGEiEABxMxCCIyQUJSYf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAMF/8QAJxEAAQMDAgYCAwAAAAAAAAAAAQIDEQAEBTFREhMhIkFxgZHB0fD/2gAMAwEAAhEDEQA/AJU8V/QDZ8G4tent6hWisVq5SGJJk5oZXySxU9MEjSRsHrPHOc48QfRraW1b229HS9VpNduwGdZrFdJmnkEjq6KXBUcAqDiBnvJzkeUFtPY2m6EwmiiSMANxgjhiiRS2MsVjRQWIVRk5OBjzGu8l3LtWAeYBrHaJ0M/qmUs8IC16VH31A7Pg27rsNvT60VetOWhkSGMInuLhlYKOl5RshwMDkHwB8eE3nRbeu2dH1ycPfjEknBUMTQxSo3HPElZEYAjkwBGDg48AvWXae1KG3NVjp1qK3alf3zNBXSFoH5oEVmQBTzyw4kZ6yMY8GzzDKnE2SlcTgHUgdPZ29VFMKUC4nSh70p1vU625KGi1uNnT9StRxzVJSeGSQPdUjtHUZIdcEY7yMjy0dE3FDp21qMN/VUadYebSWJV90oxJTKjstxK/A7PwPIc9N9WqaJvKhe1F2iqqJY3lVOZj5xOgfA7PEsDgd9deUbpu8tLss92fcGjRPLIrqKliNFAWNVBxIyOG+0HDL/Bf0T5bkceu+WhtK+WIMqAk+IHzv4oUvctomOKCIEx81uu4dy2Jqs8NGtqUPuKyLYEIDk574ZP5Yz189jI8CfVfaG4LlCzarX6suk0WeZNPhWWNgoyTKxcAyS8ByYthsA4HEYCU+6tvLBJGutaY/JJA7varg4coSygSdNlP1/b/ADzCby3xoVbbVuSPUaM8jV5ooYq86SyStIZGHLiSejJ+RC/aD+yB47j8JYYxki2WSTuOv3FJKv7x5YbcaATuD+P7av/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYEAgf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiETMUEGUYEUInGRFSOh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwYEBf/EACIRAAEDBAEFAQAAAAAAAAAAAAECAxEABAUSQSEiMXHB8P/aAAwDAQACEQMRAD8AjaCgNbXU9KrBTPIsYY84ycZ/3S1nW2iaVrcHebadslwij6SqOTxlslgNvI4BY98a4sP9dyWYDJhilmAHclImYY+QNKel7RCKKOU1FM+Y9u0scjwSeD7fr86rsg4ULDYMAipTEspcQXVCYNA1NFbpkq5KCapR4h1DTzwBdqlwuA4Y5wWHgZ0cIByMaelo0t90npp+tMk9Ps3UcXWYfcjAkZHhcHnvrLX00UCwPDJMyzJvCzw9J1GSASuTwe4PkaSxuA52LMq49UOStCyd2x28+5rRYCf5ASAHEUM0jH2Aibn94/etkMEcUFOkfSwAqkcccahvT/qmOkrIPqVL0hdY6lWUPviLDcMeeBn4GNP0tXbHVEiuFG5RiQWMq7vzuTWDIPbuBaBPTj8K6OLbDLRQswZqgo7VC89VWx1s9DNCaaBXp0Vt3WlZTkEjwmRz399Rfqe9dEBgoLbViXL7iVUbQWbAycDvjSK3C32moimqK6okfKybaf74lKsCvLOu5uM9iBnXnd9ui3GsmkROmjyuyDPCqWJC/A40Ns6prZREE+PtLdtpf1SDIB6/K//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Big Business</div>
+                                                <div>Welcome to Duloc...</div>
                                                 <div class="unlocked">6 Feb 2025</div>
                                             </div>
-                                            <div class="description">Earn 100 Stars in Career Mode</div>
+                                            <div class="description">In the Duloc job, interact with the Information Stand Lever</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAQj/xAAjEAACAgEEAwEBAQEAAAAAAAABAgMEEQAFEiEGB0ExFBNR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQACAwEBAQAAAAAAAAAAAAABAgARMSESwf/aAAwDAQACEQMRAD8A8qaRvSW2VL2/3pr1aOwteun+YdFcK7zRpyCuCpIUvjIIB7x1rL2/1t5HdpV7SQVIo50WRFmuxRuVYZUlS2RkEEZ+EH7pE9aeM3/Eq27Wd4/kHNq5RIbcUjsqMzNgBuyML1+n5nTeSqKwYGrh57bqV6fmky1IIq6SQQSskSBF5tGpYhVwBk94AAyTgDUZp28u8Dg8t3UbpV3Z4ya8MbxrSaVUYRjK8lbsjIz10cj5qQ3f1PulGhZt179SysCM5iMU0TthS5C80Ck8VY45ZODjOmQyMWNCc2b2vudDb61OxSr2FgRUEizSxOwVAiluLcSQqqucdgDOdV3ifnsPl27jarm1yqDBPKjtcMio6ROQ3EpkkfO/3B+aC9WXqW3Xp+bVntTxwI8FiJXkYKvNoXVQScAZJA7IHfZGg5kK7Fls5EL2V5Fe8Qq7XV2f+Uc5LCvJLWjd3VCgXkcdnPPv9P3ONH172R5Fcpz1nmqxrMhjdoqsaPxIKkBgMjIJGR3gn/utX3dudW9vtKClZSdYIpGkKsrcHeZ24kqSvLjwzgnGcfoOjfTYdmDEer+z/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAT/xAArEAACAQIGAQIFBQAAAAAAAAABAgMEEQAFBhIhMUETYSIjUXGRFGKBgpL/xAAWAQEBAQAAAAAAAAAAAAAAAAAGAgT/xAAlEQAABQMDBAMAAAAAAAAAAAABAgQFEQADIRIxQVGRoeFSgbH/2gAMAwEAAhEDEQA/AEUw8YwpwT74P5Nl6yyx1NaI0y9GO9pH2hyBfaPLHq9vr4xWNZZBkGUZXJTwQGerjhWSRESMWUsqm1l+FviuOfHN/K9Y6WEh9BsxkYjFEG9nVLyCe3gOJnNTDTWk1zGhmrawSCnXhQrBO2C7rkG/JIAA5IPIAJwsNTgMyjkXIuRbFazSqSnyyiiKimp0p45mQ87WccXt3tTYPyfJxN8zjaLMKpZE9NhK91Pj4jjO1LhW3rgiOMCAdAzW18awbU9j5GmfFGYdv6DK/VYpvppQrAXA+a23+b3uB+29sakmziPR+oqTMPUnzOSCVIJo5N5YllYXN7ggqe/bE9yzVctLEYlO6FivqRyqHRvAO0+e+RY4ZKPUNBVRhWikicdiKxRvcKzAr9rkfbBhxaVQqbilLBtY7esfv1SRreU9lMRMokmkInjv6pm1dV1ddXZRSZUvp0pijE08ybl2pEEA29m9ifxgHrGskptPySOyzyUskSqxa5RXDAoD3YELYHrm3nHJmWoaamUbImZivD1FlQf1Vrt/oD2OJ9qDUFVm7Kk8nyUYmONLrGvuFv3z2bk/XEoUC2woKpvQQQnAbj5qnFyRq7Ap7cn2zwEdO1f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Live by the Blade</div>
+                                                <div>Down the Rabbit-Hole</div>
                                                 <div class="unlocked">6 Feb 2025</div>
                                             </div>
-                                            <div class="description">Complete the Fire Helicopter blades first</div>
+                                            <div class="description">Complete the Wonderland Entrance Hall job</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+22 others...</div>
+                                            <div class="description ellipsis">+24 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2384,7 +2384,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2025, 23:05:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2025, 00:05:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
