@@ -25,7 +25,7 @@
 
 - :seedling: &nbsp;I'm currently working on growing my **Obsidian** vault
 - :speech_balloon: &nbsp;I like to talk about **Digital Privacy** and **Philosophy**
-- :book: &nbsp;Check out my thoughts on various things at my  **[personal blog](https://intothebeans.bearblog.dev)**
+- :book: &nbsp;Check out my thoughts on various things at my  **[website](https://www.aiden-benton.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://linkedin.com/in/aidenbenton)**
 
 <br>
