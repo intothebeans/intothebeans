@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    181k added, 67.1k removed
+                                    230k added, 200k removed
                                 </div>
                             </section>
                             <section>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ofkm/arcane</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern Docker Management, Designed for Everyone</div>
@@ -2127,7 +2127,7 @@ Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABgcABAUBAgMI/8QALxAAAQMEAQMDAwEJAAAAAAAAAQIDBAAFESEGEjFBEyJRFBVxBxYyNVJTYWJykf/EABsBAAICAwEAAAAAAAAAAAAAAAUGBAcBAgMI/8QAMBEAAQMDAwIEAwkBAAAAAAAAAQIDEQAEIQUSMQZBBxNRYRQikRUyUnGBkrHR4vH/2gAMAwEAAhEDEQA/AMG1W7q+a3U2gEDvUsaQU9qJG0JKBqnJhhITSi++oqzQ4bQM4OSDUFoSR7Uq1RMEJGRjY3XrCi/VS22AoJLhxWXQ0w2p1zCUgk/kMmuSXFrISnk0NxuPPSXFpitLc6Rk4r3HEpwGTDdBpm2KyKtbzqlOpWFjGq2ihIGRmqk1nxH+Gu1N6ehDjeIUd3cZ7jg+1NNpofmNBT5KVemKSMrjr8QJXJZWgK0M0P3S2BCV6OKfPILUq6RmkJdS2UKzsUsOXQDbnlx3FpcIGfbTV011Nba7bhDhAfySkA4AMTn2jvQ69snbJzcmSjGfes6xHQwD0k7ombACcDYq7bI6XbVJSywkuKGE4Hmo3Z7iG05iLOfipuh9V2eoNKU6oNFJiFKGcAzmK4ahpjrCwEgqn0BqnnAJHer1jx94h5/eKqrSGHo7xblJ6F40Ks2L+MxeruFaoxqziXNMfWgyC2ogjIPymoFqlSbhAUIMj+aDv1Y/Ua/8e5deoFtvVutzECG1IZYksFa5a1HaEH5803G576uKRZ+vqXIrbxONdSkgnVW5Vrtst/1plvhvu/1HmUrV/wBIrpd2FLs8hlhBPUjpQhPj8V5luLy2fZYZbZCVJ+8fxcc1Ztugh0FRwSKETye5kEZbzjftoT5NMdnKW/IKS4RjQxRD9muQTn6RwnGDQxyGO9GC230FtzGcGm/pS8bsL0usN7yUkQnnMZ71P13T7a7tg2laUZBnHacc0ccWyGQO26MFSG2GkF1wDq1ug/i2kj80R3lhTsEKCgOjfakm7SFPQahMpCiArE10kW+23WUXVKK3QMHB8VzGsMKNIbfQF+o2cpyrzWNDlOxVKUyRlQwSRVoXiZgZKD8HFEvtXVUM/DN3CvLiI3GI4iPStnNDZLnmJQmeZPM0S7O1eagOseKp2p9UmJ1ud8mrf83wBS6pJSdprCk7TtPasfktwk2+MyYpHvUQSd0sOUy3Zzi35BBWR06ph82GYkXJ11mlpezhpeAa9AeHthbJ0du7S2A6dwKoyRu4n9BSPrTzhuy0VfLjHvFEfEL609IbjhpQU4rHemS2QpsAgfg188WG7mI+h5sgLScijFHOJoGfUQCe2RS/r/QKrt1C9K2pTGdyjzPbB7RRK11nygU3UkziB/ymHPtnryCtDqEjHYCq/wBlX0AB5Hf4oG/bibjHqN5/1qHnE069VvX+NBx4ea0BG9H7v80ST1O0kQN30H90zbbH+ljBpSwreciu8yUmLFdfKSoNjOB5pXq5xNIAU4jP9hXnJ5nLksradcR6bgwcCtrfw31IvoVcFBRuG6FHicxj0qK9r7K0qKQdx9u/1oiv96aukZtCGlIKD1boJvagGVdShUVdW/d7s5GKxrtcklCgkjt5q5bGxtNKtBa2ohAmBJPJnvmlRa3rl7zHMqNf/9k=" alt="" />
                             <div class="about">
                                 <div class="name">Lossless Scaling</div>
                                 <div class="infos">
@@ -2171,7 +2171,7 @@ Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2025, 18:05:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2025, 19:05:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
