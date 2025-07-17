@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.43m added, 1.19m removed
+                                    374k added, 244k removed
                                 </div>
                             </section>
                             <section>
@@ -314,12 +314,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 53 commits)</small>
+                    <small class="h-details">(computed from last 55 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 138.0 characters per line of code written</li>
+                        <li>Has approximately 137.9 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -410,13 +410,13 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -476,8 +476,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -497,32 +497,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.8148612153328934%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8146705573149672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.060879010457767904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Lua</span>
-                                <div class="bar" style="width: 0.019445739592925865%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.06086476622666599%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.015168090181942172%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.021693144785471585%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Lua</span>
+                                <div class="bar" style="width: 0.019441189755360723%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vim Script</span>
-                                <div class="bar" style="width: 0.009588547471963443%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.00958630398138935%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.003864349950985267%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0038634457856030345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1845,6 +1845,54 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">intothebeans/intothebeans.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eb0ba6b</div>
+                                        <div class="message">Update custom.html</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">intothebeans/homelab</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#661b211</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#F4900C" d="M35 19c0-2.062-.367-4.039-1.04-5.868-.46 5.389-3.333 8.157-6.335 6.868-2.812-1.208-.917-5.917-.777-8.164.236-3.809-.012-8.169-6.931-11.794 2.875 5.5.333 8.917-2.333 9.125-2.958.231-5.667-2.542-4.667-7.042-3.238 2.386-3.332 6.402-2.333 9 1.042 2.708-.042 4.958-2.583 5.208-2.84.28-4.418-3.041-2.963-8.333C2.52 10.965 1 14.805 1 19c0 9.389 7.611 17 17 17s17-7.611 17-17z"/>
+                                                <path fill="#FFCC4D" d="M28.394 23.999c.148 3.084-2.561 4.293-4.019 3.709-2.106-.843-1.541-2.291-2.083-5.291s-2.625-5.083-5.708-6c2.25 6.333-1.247 8.667-3.08 9.084-1.872.426-3.753-.001-3.968-4.007C7.352 23.668 6 26.676 6 30c0 .368.023.73.055 1.09C9.125 34.124 13.342 36 18 36s8.875-1.876 11.945-4.91c.032-.36.055-.722.055-1.09 0-2.187-.584-4.236-1.606-6.001z"/>
+                                            </svg>
+                                            dump(kopia): remove container in favore of cli
+
+Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">intothebeans/homelab</span>
                                     </div>
                                 </div>
@@ -1915,72 +1963,6 @@ Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
                                                 <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
                                             </svg>
                                             config(diun): change title template
-
-Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">intothebeans/homelab</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#66c7758</div>
-                                        <div class="message">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#D99E82" d="M18 3.143c-9.941 0-18 6.908-18 15.428 0 1.066.126 2.107.367 3.112C2.146 24.744 3.377 22.812 9 20c5.727-2.864 0 4-2 8-.615 1.23-.282 2.271.56 3.124C10.506 32.928 14.104 34 18 34c9.941 0 18-6.907 18-15.429 0-8.52-8.059-15.428-18-15.428zm2.849 24.447c-.395 1.346-2.46 1.924-4.613 1.291-2.153-.632-3.578-2.234-3.183-3.581.395-1.346 2.46-1.924 4.613-1.29 2.153.631 3.578 2.233 3.183 3.58z"/>
-                                                <circle fill="#5C913B" cx="10" cy="11" r="3"/>
-                                                <circle fill="#269" cx="20" cy="9" r="3"/>
-                                                <circle fill="#DD2E44" cx="29" cy="15" r="3"/>
-                                                <circle fill="#FFCC4D" cx="28" cy="24" r="3"/>
-                                            </svg>
-                                            style: fix yaml styling
-
-Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">intothebeans/homelab</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#61d18d6</div>
-                                        <div class="message">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            refactor: further refactoring into subdirs
 
 Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
                                         </div>
@@ -2189,7 +2171,7 @@ Signed-off-by: Aiden &lt;88350376+intothebeans@users.noreply.github.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2025, 18:05:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 19:05:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
